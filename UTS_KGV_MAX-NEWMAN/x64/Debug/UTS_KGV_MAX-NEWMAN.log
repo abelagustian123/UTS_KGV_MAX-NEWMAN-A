@@ -1,0 +1,7 @@
+﻿  UTS_KGV_MAX-NEWMAN.cpp
+D:\Visual Studio\My Project\UTS_KGV_MAX-NEWMAN\UTS_KGV_MAX-NEWMAN\UTS_KGV_MAX-NEWMAN.cpp(110,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio\My Project\UTS_KGV_MAX-NEWMAN\UTS_KGV_MAX-NEWMAN\UTS_KGV_MAX-NEWMAN.cpp(197,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\Visual Studio\My Project\UTS_KGV_MAX-NEWMAN\x64\Debug\vc120.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  UTS_KGV_MAX-NEWMAN.vcxproj -> D:\Visual Studio\My Project\UTS_KGV_MAX-NEWMAN\x64\Debug\UTS_KGV_MAX-NEWMAN.exe
